@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.alkewallet.AlkeWalletClases","l":"AlkeWalletImpl"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.alkewallet","l":"Main"},{"p":"org.alkewallet.AlkeWalletClases","l":"Usuario"},{"p":"org.alkewallet.AlkeWalletClases","l":"UsuarioBilletera"}];updateSearchResults();
