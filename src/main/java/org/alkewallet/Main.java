@@ -38,7 +38,10 @@ public class Main {
             System.out.println("1. Inicio Sesión");
             System.out.println("2. Crear Cuenta Usuario");
             System.out.println("3. Salir");
+            System.out.println("------------------------------");
+            System.out.println("Metodo para buscar si existe usuarios es para pruebas");
             System.out.println("4. Buscar Usuario");
+            System.out.println("------------------------------");
             opcion = scanner.nextInt();
             switch (opcion) {
                 case 1:
